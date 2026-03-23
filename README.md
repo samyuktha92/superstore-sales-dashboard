@@ -32,6 +32,9 @@ analysing $12.78M in retail sales data across 4 regions,
 <img width="711" height="733" alt="page4-Executive summary" src="https://github.com/user-attachments/assets/c5d53c7b-39f6-4b6e-9d68-9ff628a5e9bc" 
 
 
+
+
+
 ## 👩‍💻 Author
 **Ravikoti Samyuktha Sharma**  
 📧 ravikoti.samyuktha@gmail.com  
