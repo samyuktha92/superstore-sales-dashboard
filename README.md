@@ -26,7 +26,7 @@ analysing $12.78M in retail sales data across 4 regions,
 
 - ## 📊 Dashboard Screenshots
 
-<img src="page1-sales overview.png" width="1000"
+<img src="images/page1-sales overview.png" width="800">
 
 
 ## 👩‍💻 Author
