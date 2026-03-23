@@ -27,7 +27,9 @@ analysing $12.78M in retail sales data across 4 regions,
 - ## 📊 Dashboard Screenshots
 
 <img width="733" height="759" alt="page1-sales overview" src="https://github.com/user-attachments/assets/4b244e0a-ded6-44be-ab7f-95a868835ee8" />
-
+<img width="683" height="754" alt="page2-product performance" src="https://github.com/user-attachments/assets/be0d7ae7-e781-4d70-a07e-8780b4e090e2" />
+<img width="696" height="757" alt="page3-Customer Analysis" src="https://github.com/user-attachments/assets/5834629f-100d-4038-a06b-32bd8cd2945b" />
+<img width="711" height="733" alt="page4-Executive summary" src="https://github.com/user-attachments/assets/c5d53c7b-39f6-4b6e-9d68-9ff628a5e9bc" 
 
 
 ## 👩‍💻 Author
