@@ -24,6 +24,11 @@ analysing $12.78M in retail sales data across 4 regions,
 - **Power Query** — Data cleaning & transformation
 - **Bookmarks** — Page navigation panel
 
+- ## 📊 Dashboard Screenshots
+
+<img src="page1-sales overview.png" width="1000"
+
+
 ## 👩‍💻 Author
 **Ravikoti Samyuktha Sharma**  
 📧 ravikoti.samyuktha@gmail.com  
